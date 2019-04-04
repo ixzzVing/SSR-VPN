@@ -22,3 +22,7 @@ download_first.apk爲 lanternpro ，具體介紹：
 - 刪除冗餘内容，安裝包減少50%
 - 專業版每次可刷新流量，已達到用就破解的目的
 - 加入DNS優化，解決部分地區無法鏈接的問題
+
+__
+
+telegram: https://t.me/TSMtF
