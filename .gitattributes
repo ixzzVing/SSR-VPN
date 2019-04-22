@@ -1,4 +1,4 @@
-*.css linguist-language=objective-c
-*.less linguist-language=objective-c
-*.js linguist-language=objective-c
-*.html linguist-language=objective-c
+*.css linguist-language=c
+*.less linguist-language=c
+*.js linguist-language=c
+*.html linguist-language=c
