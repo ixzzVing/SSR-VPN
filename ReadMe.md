@@ -1,6 +1,6 @@
 # ReadMe
 
-http://mrw.so/5n0kpq  (鏈接有效期一年，失效請在issue反饋)
+http://mrw.so/5obvu  (鏈接有效期至28/9/2019)
 
 節點注冊，新客戶 10% OFF，每月不定期 20-25% OFF。
 
